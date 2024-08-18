@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+PyPDF2
+cassio
+datasets
+openai
+tiktoken
+huggingface_hub
+transformers
+ipykernel
+langchain-text-splitters
+langchain_openi    

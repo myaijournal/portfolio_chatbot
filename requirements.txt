@@ -2,7 +2,7 @@ streamlit
 python-dotenv
 langchain
 langchain-community
-PyPDF2
+PyPDF
 cassio
 datasets
 openai
